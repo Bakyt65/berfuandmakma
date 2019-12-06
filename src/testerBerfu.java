@@ -3,5 +3,6 @@ public class testerBerfu {
         System.out.println("from tester");
         System.out.println("without pulling");
         System.out.println("selam olsun ablama");
+        System.out.println("local master is updated");
     }
 }
